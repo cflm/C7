@@ -1,0 +1,4 @@
+/mnt/d/myCpp/newDirectory/C7/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/d/myCpp/newDirectory/C7/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/d/myCpp/newDirectory/C7/cmake-build-debug/CMakeFiles/main.dir
+/mnt/d/myCpp/newDirectory/C7/cmake-build-debug/CMakeFiles/C7.dir
